@@ -1,0 +1,9 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /admin/
+Disallow: /uploads/
+Disallow: /php/
+
+Sitemap: https://www.dashtechwebhosting.com.ng/sitemap.xml
