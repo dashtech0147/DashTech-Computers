@@ -1,0 +1,232 @@
+PROPRIETARY SOFTWARE LICENSE
+DASHTECH COMPUTERS
+
+Copyright (c) 2026 DashTech Computers
+All Rights Reserved.
+
+1. OWNERSHIP
+
+This software, including but not limited to its source code, object code,
+HTML, CSS, JavaScript, PHP, database structures, graphics, designs,
+documentation, configuration files, and other associated materials
+("Software"), is the proprietary property of DashTech Computers, unless
+otherwise expressly stated.
+
+All rights, title, and interest in the Software remain with DashTech
+Computers or the respective third-party copyright owners.
+
+Nothing in this License transfers ownership of the Software to any
+individual, company, client, contributor, or other party.
+
+
+2. LICENSE GRANT
+
+DashTech Computers grants authorized users a limited, non-exclusive,
+non-transferable, revocable license to access and use the Software solely
+for the purposes expressly authorized by DashTech Computers.
+
+This license does not grant ownership of the Software or its source code.
+
+
+3. RESTRICTIONS
+
+Unless expressly authorized in writing by DashTech Computers, you may
+not:
+
+a. Copy, reproduce, or duplicate the Software or substantial portions of it;
+
+b. Modify, adapt, translate, or create derivative works based on the
+   Software;
+
+c. Sell, resell, sublicense, lease, rent, or distribute the Software;
+
+d. Publish, upload, or make the Software or its source code publicly
+   available;
+
+e. Remove, alter, or conceal copyright, trademark, license, or other
+   proprietary notices;
+
+f. Use the Software to create or operate a competing product or service;
+
+g. Reverse engineer, decompile, disassemble, or otherwise attempt to
+   derive the source code from compiled portions of the Software, except
+   where such restriction is prohibited by applicable law;
+
+h. Use the Software, source code, designs, or other proprietary materials
+   for commercial purposes without written authorization from DashTech
+   Computers.
+
+
+4. CLIENT AND AUTHORIZED USE
+
+Where DashTech Computers provides the Software or a website based on the
+Software to a client, the client receives only the rights expressly
+specified in the applicable agreement, quotation, invoice, service
+agreement, or other written authorization.
+
+Payment for website development, hosting, maintenance, or related services
+does not automatically transfer ownership of the underlying source code,
+frameworks, reusable components, templates, tools, or intellectual
+property belonging to DashTech Computers.
+
+Any transfer of intellectual property must be expressly agreed to in
+writing by DashTech Computers.
+
+
+5. THIRD-PARTY MATERIALS
+
+The Software may contain or interact with third-party libraries,
+frameworks, fonts, APIs, plugins, software, images, or other materials
+that are subject to their own licenses and terms.
+
+Those third-party materials remain subject to their respective licenses.
+
+Nothing in this License is intended to override or restrict rights granted
+under applicable third-party licenses.
+
+
+6. TRADEMARKS AND BRANDING
+
+The DashTech Computers name, logos, trademarks, service marks, branding,
+website designs, and related visual identity are the property of DashTech
+Computers or their respective owners.
+
+This License does not grant permission to use any DashTech Computers
+trademark, logo, branding, or business identity without prior written
+permission.
+
+
+7. CONFIDENTIALITY
+
+Any passwords, API keys, database credentials, SMTP credentials,
+administrative credentials, private configuration files, customer
+information, business information, or other confidential materials
+included in or associated with the Software must be treated as
+confidential.
+
+Authorized users must not disclose such information to unauthorized
+third parties.
+
+
+8. SECURITY
+
+Users must not intentionally introduce malicious code, vulnerabilities,
+backdoors, malware, unauthorized access mechanisms, or other harmful
+functionality into the Software.
+
+Unauthorized attempts to access administrative systems, databases,
+accounts, servers, or other protected resources associated with the
+Software are prohibited.
+
+9. AVAILABILITY AND MODIFICATIONS
+
+DashTech Computers may modify, update, suspend, replace, or discontinue
+any portion of the Software, website, service, or associated functionality
+at its discretion, subject to any applicable contractual obligations.
+
+
+10. DISCLAIMER OF WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS
+PROVIDED "AS IS" AND "AS AVAILABLE".
+
+DASHTECH COMPUTERS MAKES NO EXPRESS OR IMPLIED WARRANTIES REGARDING THE
+SOFTWARE, INCLUDING, TO THE EXTENT PERMITTED BY LAW, WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, OR
+NON-INFRINGEMENT.
+
+DASHTECH COMPUTERS DOES NOT WARRANT THAT THE SOFTWARE WILL ALWAYS BE
+AVAILABLE, ERROR-FREE, SECURE, OR FREE FROM INTERRUPTIONS.
+
+
+11. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, DASHTECH COMPUTERS
+SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL,
+EXEMPLARY, OR PUNITIVE DAMAGES ARISING OUT OF OR RELATING TO THE USE OF,
+INABILITY TO USE, MODIFICATION OF, OR ACCESS TO THE SOFTWARE.
+
+THIS MAY INCLUDE, WITHOUT LIMITATION, LOSS OF PROFITS, LOSS OF REVENUE,
+LOSS OF DATA, LOSS OF BUSINESS OPPORTUNITY, BUSINESS INTERRUPTION, OR
+LOSS OF GOODWILL.
+
+NOTHING IN THIS LICENSE SHALL EXCLUDE OR LIMIT LIABILITY TO THE EXTENT
+THAT SUCH LIABILITY CANNOT LAWFULLY BE EXCLUDED OR LIMITED UNDER
+APPLICABLE LAW.
+
+
+12. INDEMNIFICATION
+
+To the extent permitted by applicable law, an unauthorized user who
+violates this License and causes loss, damage, claims, or expenses to
+DashTech Computers shall be responsible for such consequences arising
+from that violation.
+
+Nothing in this section limits rights or remedies that cannot legally be
+limited.
+
+
+13. TERMINATION
+
+This License automatically terminates if you materially violate its terms.
+
+Upon termination, you must immediately stop using, copying, modifying,
+distributing, or otherwise exploiting the Software and, where applicable,
+delete unauthorized copies in your possession or control.
+
+Termination does not affect rights or obligations that by their nature
+are intended to survive termination.
+
+
+14. RESERVATION OF RIGHTS
+
+All rights not expressly granted by this License are reserved by DashTech
+Computers.
+
+No permission, license, or right is granted by implication, estoppel, or
+otherwise.
+
+
+15. GOVERNING LAW
+
+This License shall be interpreted and enforced in accordance with the
+laws applicable to the agreement and the jurisdiction specified in the
+applicable contract between DashTech Computers and the authorized user.
+
+Where no separate agreement specifies a governing law, applicable
+mandatory laws shall determine the appropriate governing law and
+jurisdiction.
+
+
+16. SEVERABILITY
+
+If any provision of this License is determined to be invalid,
+unenforceable, or unlawful, that provision shall be modified or
+severed to the minimum extent necessary, while the remaining provisions
+shall continue in effect to the extent permitted by law.
+
+
+17. ENTIRE AGREEMENT
+
+This License constitutes the terms governing use of the Software unless
+a separate written agreement between DashTech Computers and an authorized
+party expressly supersedes or modifies these terms.
+
+In the event of a conflict between this License and a separately executed
+written agreement, the applicable written agreement shall control to the
+extent of the conflict.
+
+
+18. CONTACT
+
+For licensing, permissions, commercial use, source-code access, or other
+authorization requests, contact:
+
+DashTech Computers
+Email: info@dashtechwebhosting.com.ng
+Website: www.dashtechwebhosting.com.ng
+Phone/WhatsApp: +2347044390179
+
+
+Copyright (c) 2026 DashTech Computers
+All Rights Reserved.
